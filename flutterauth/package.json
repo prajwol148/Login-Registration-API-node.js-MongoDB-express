@@ -1,13 +1,13 @@
 {
   "name": "flutterauth",
   "version": "1.0.0",
-  "description": "Authentication System for Medhavi App",
+  "description": "KnocADoor auth",
   "main": "server.js",
   "scripts": {
     "start": "cross-env NODE_ENV=production node server",
     "dev": "cross-env NODE_ENV=development nodemon server"
   },
-  "author": "PrajwolTiwari",
+  "author": "SampannaThapaliya",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.0.1",
